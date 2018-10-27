@@ -8,16 +8,15 @@
 |Autoscroll  |**خودبخود سکرال**|
 |Block|**روکیں**|
 |Bookmark  |**بکمارک**|
-|Break  |**وقفہ**|
+|Break |**وقفہ**|
 |Browsing |**براؤزنگ**|
-|Click |**کلک**|
 |Configurations |**ترتیبات**|
 |Content |**مواد**|
 |Debugger |**ڈبگگر**|
 |Editor |**ایڈیٹر**|
 |Enduser |**صارف**|
 |Extension |**ایکسٹینشن**|
-|Feature |**خصوصیات**|
+|Feature|**خصوصیات**|
 |File |**فائل**|
 |Folder |**فولڈر**|
 |HTTP/HTTPS|**HTTP/HTTPS**|
@@ -25,7 +24,7 @@
 |Install |**انسٹال**|
 |Layout |**لےآؤٹ**|
 |Location |**موجودہ مقام**|
-|Notification/Notifications |**اطلاعات**|
+|Notification/Notifications|**اطلاعات**|
 |Online |**آن لائن**|
 |Pop up|**پوپ اپ**|
 |Rate |**شرح**|
